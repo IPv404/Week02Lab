@@ -17,7 +17,7 @@ public class Lab02 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello CPRG-352");
-        System.out.print("This is for Lab02 /n" 
+        System.out.print("This is for Lab02 \n" 
             + "I'm not very creative so please don't expect much here!");
         
     }
